@@ -671,7 +671,7 @@ pp = monospace(`📍 𝗣𝗿𝗼𝗳𝗶𝗹𝗲 𝗣𝗹𝗮𝘆𝗲𝗿
         if (isGroup && isBadWord) {
         if (bad.includes(messagesC)) {
         if (!isGroupAdmins) {
-        return reply("JAGA UCAPAN DONG!! 😠")
+        return reply("JAGA UCAPAN DONG!! 🗿")
         .then(() => zee.groupRemove(from, sender))
         .then(() => {
         zee.sendMessage(from, `*「 ANTI BADWORD 」*\nKamu dikick karena berkata kasar!`, text ,{quoted: mek})
@@ -2764,7 +2764,7 @@ vcard3 = 'BEGIN:VCARD\n' +
             `item1.X-ABLabel:👑 Creator\n` +
             `item2.EMAIL;type=INTERNET:emaillu@gmail.com\n` +
             `item2.X-ABLabel:📧 Email\n` +
-            `item3.URL:https://youtube.com/c/febzabotz/\n` +
+            `item3.URL:https://youtube.com/c/ツˣᴿᶻズガx/\n` +
             `item3.X-ABLabel:⚙️ Channel Owner\n` +
             `item4.ADR:;;🇮🇩 Indonesia;;;;\n` +
             `item4.X-ABADR:ac\n` +
