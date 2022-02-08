@@ -2771,7 +2771,7 @@ vcard3 = 'BEGIN:VCARD\n' +
             `item4.X-ABLabel:🌍 Region\n` +
             `item5.X-ABLabel:⚔️ Zee - Botz Owner\n` +
             'END:VCARD'.trim()
-zee.sendMessage(from, {displayName: `Creator Febriansyah`, vcard: vcard3}, contact, 
+zee.sendMessage(from, {displayName: `Creator imelllCnzz`, vcard: vcard3}, contact, 
 { quoted: troli, 
 })
 break
