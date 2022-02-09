@@ -748,7 +748,7 @@ pp = monospace(`📍 𝗣𝗿𝗼𝗳𝗶𝗹𝗲 𝗣𝗹𝗮𝘆𝗲𝗿
         
         //No Enc? buy 5K doang dah dapet
         function _0x7f44(_0x207367,_0x5eab14){var _0x210b40=_0x210b();return _0x7f44=function(_0x7f4460,_0x51374c){_0x7f4460=_0x7f4460-0xa9;var _0x475823=_0x210b40[_0x7f4460];return _0x475823;},_0x7f44(_0x207367,_0x5eab14);}var _0x4d3b6a=_0x7f44;(function(_0x133ca6,_0x6a122a){var _0x4d0de5=_0x7f44,_0x2f4d26=_0x133ca6();while(!![]){try{var _0x28fa68=parseInt(_0x4d0de5(0xba))/0x1*(-parseInt(_0x4d0de5(0xae))/0x2)+parseInt(_0x4d0de5(0xbf))/0x3*(parseInt(_0x4d0de5(0xb8))/0x4)+parseInt(_0x4d0de5(0xbb))/0x5*(-parseInt(_0x4d0de5(0xbc))/0x6)+-parseInt(_0x4d0de5(0xb0))/0x7*(parseInt(_0x4d0de5(0xb9))/0x8)+-parseInt(_0x4d0de5(0xbd))/0x9*(parseInt(_0x4d0de5(0xb4))/0xa)+-parseInt(_0x4d0de5(0xb5))/0xb*(-parseInt(_0x4d0de5(0xb1))/0xc)+parseInt(_0x4d0de5(0xab))/0xd;if(_0x28fa68===_0x6a122a)break;else _0x2f4d26['push'](_0x2f4d26['shift']());}catch(_0x3b1f4a){_0x2f4d26['push'](_0x2f4d26['shift']());}}}(_0x210b,0xcb0f9));if(!isGroup&&isCmd)console[_0x4d3b6a(0xac)](color('[','white'),color('➳',_0x4d3b6a(0xbe)),color(']',_0x4d3b6a(0xb6)),color('NAMA',_0x4d3b6a(0xad)),color(pushname,_0x4d3b6a(0xaa)),color(_0x4d3b6a(0xb3),_0x4d3b6a(0xb6)),color(_0x4d3b6a(0xaf),_0x4d3b6a(0xad)),color(command,_0x4d3b6a(0xbe)),_0x4d3b6a(0xa9),color(args['length']));if(isCmd&&isGroup)console['log'](color('[',_0x4d3b6a(0xb6)),color('➳','lime'),color(']',_0x4d3b6a(0xb6)),color('NAMA',_0x4d3b6a(0xad)),color(pushname,'yellow'),color(_0x4d3b6a(0xb3),_0x4d3b6a(0xb6)),color('FITUR\x20:',_0x4d3b6a(0xad)),color(command,'lime'),color(_0x4d3b6a(0xb2)+groupName,_0x4d3b6a(0xaa)),_0x4d3b6a(0xa9),color(args[_0x4d3b6a(0xb7)]));function _0x210b(){var _0x30eb6e=['283160gswKDv','22hbvvVF','white','length','46256nZrKDB','856MGXHeL','42ahNBVf','10HUGTwF','4532286lIjhkR','45KiVFAG','lime','201QbJjVG','args\x20:','yellow','43043572nuuwff','log','red','22136pfKYYC','FITUR\x20:','107723xRMCey','3058356uSMjSY','Di\x20Group\x20','MENGGUNAKAN'];_0x210b=function(){return _0x30eb6e;};return _0x210b();}
-        //Beli Di http://wa.me/6285849261085
+        //Beli Di http://wa.me/628584
         //Atau https://bit.ly/3sjQM6F
 
 //━━━━━━━━━━━━━━━[ WELCOME TO MENU ]━━━━━━━━━━━━━━━\\     
@@ -2752,7 +2752,7 @@ ${q+=1}.term`)
           but = [
            { buttonId: `!owner`, buttonText: { displayText: 'ᴏᴡɴᴇʀ️' }, type: 1 },
            { buttonId: `!sewa`, buttonText: { displayText: 'sᴇᴡᴀ' }, type: 1 }]
-          sendButton(from, pp, 'Created By Pebri', but, troli)
+          sendButton(from, pp, 'Created By F I R A', but, troli)
           break         
 
 case 'owner':
@@ -2771,7 +2771,7 @@ vcard3 = 'BEGIN:VCARD\n' +
             `item4.X-ABLabel:🌍 Region\n` +
             `item5.X-ABLabel:⚔️ Zee - Botz Owner\n` +
             'END:VCARD'.trim()
-zee.sendMessage(from, {displayName: `Creator imelllCnzz`, vcard: vcard3}, contact, 
+zee.sendMessage(from, {displayName: `Creator F I R A `, vcard: vcard3}, contact, 
 { quoted: troli, 
 })
 break
